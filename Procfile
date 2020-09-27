@@ -1,3 +1,3 @@
 # Procfile
 
-web: gunicorn mitra_test.wsgi
+web:gunicorn mitra_test.wsgi
